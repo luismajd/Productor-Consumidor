@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1605836937 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	"Contenedor.h"
+	"Productor.h"
+	"Consumidor.h"
+
+1605674249 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\listacircular.h
+
+1605833771 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\contenedor.h
+	<iostream>
+
+1605834644 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\agente.cpp
+	"Agente.h"
+	"txtcolor.h"
+
+1605834588 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\agente.h
+	<iostream>
+
+1605831375 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\consumidor.cpp
+	"Consumidor.h"
+
+1605829560 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\consumidor.h
+	"Agente.h"
+
+1605840297 source:c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\productor.cpp
+	"Productor.h"
+
+1605829387 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\productor.h
+	"Agente.h"
+
+1603821460 c:\users\luis_\onedrive\documentos\cucei\6to semestre\seminario de uso, adaptación y explotación de sistemas operativos\productorconsumidor\txtcolor.h
+	<iostream>
+	<windows.h>
+
